@@ -1,0 +1,6 @@
+{
+  "name": "IT-Infrastructuur Documentatie",
+  "description": "Overzichtelijke documentatie van fysieke servers, virtuele machines, netwerkapparaten en IP/MAC-adressen voor de scholengemeenschap.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
